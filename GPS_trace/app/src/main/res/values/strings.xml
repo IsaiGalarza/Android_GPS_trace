@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPS_trace</string>
+    <string name="title_activity_list_user">ListUserActivity</string>
+</resources>
